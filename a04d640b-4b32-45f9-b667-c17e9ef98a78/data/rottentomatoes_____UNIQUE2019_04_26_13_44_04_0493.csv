@@ -1,0 +1,442 @@
+Title,RottenTomatoesCritics,RottenTomatoesAudience
+American Hustle,0.93,0.78
+Captain Phillips,0.93,0.91
+Dallas Buyers Club,0.94,0.92
+Gravity,0.97,0.84
+Nebraska,0.92,0.87
+Philomena,0.92,0.9
+12 Years a Slave,0.96,0.92
+The Wolf of Wall Street,0.77,0.83
+Her,0.94,0.85
+Star Trek Into Darkness,0.87,0.9
+Pacific Rim,0.71,0.78
+Homefront,0.41,0.64
+Grown Ups 2,0.07,0.55
+Oz The Great and Powerful,0.59,0.57
+"The Way, Way Back",0.85,0.85
+This is the End,0.83,0.73
+The World's End,0.89,0.73
+Baggage Claim,0.14,0.55
+After Earth,0.11,0.38
+Anchorman 2: The Legend Continues,0.74,0.62
+The Book Thief,0.5,0.78
+A good Day to Die Hard,0.14,0.42
+Last Vegas,0.47,0.62
+The Place Beyond the Pines,0.81,0.75
+47 Ronin,0.12,0.55
+Lone Survivor,0.74,0.9
+Fruitvale Station,0.94,0.89
+Admission,0.38,0.34
+The Hunger Games: Catching Fire,0.89,0.91
+All is Lost,0.93,0.67
+Don Jon,0.81,0.63
+Saving Mr. Banks,0.8,0.88
+Machete Kills,0.29,0.4
+Ender's Game,0.61,0.71
+Amour,0.93,0.82
+Argo,0.96,0.9
+Beasts of the Southern Wild,0.86,0.76
+Django Unchained,0.88,0.92
+Les Miserables,0.7,0.79
+Life of Pi,0.87,0.85
+Lincoln,0.9,0.81
+Silver Linings Playbook,0.92,0.86
+Zero Dark Thirty,0.93,0.8
+The Hobbit: An Unexpected Journey,0.65,0.83
+Wreck-It Ralph,0.86,0.87
+Rock of Ages,0.41,0.55
+People Like Us,0.55,0.63
+Fun Size,0.25,0.48
+The Man With the Iron Fists,0.49,0.41
+Bernie,0.9,0.72
+Trouble with the Curve,0.51,0.67
+Cabin in the Woods,0.92,0.73
+Seven Psychopaths,0.83,0.71
+Tyler Perry's Good Deeds,0.31,0.77
+MIB 3,0.7,0.71
+The Master,0.85,0.6
+That's My Boy,0.2,0.53
+Contraband,0.51,0.58
+Gone,0.11,0.43
+Frankenweenie,0.87,0.7
+Brave,0.78,0.76
+The Raven,0.23,0.46
+Salmon Fishing in the Yemen,0.67,0.64
+Prometheus,0.74,0.69
+Joyful Noise,0.33,0.66
+Hitchcock,0.62,0.61
+Think Like a Man,0.53,0.8
+What to Expect When You're Expecting,0.22,0.48
+The Artist,0.98,0.89
+The Descendants,0.89,0.79
+Extremely Loud and Incredibly Close,0.47,0.61
+The Help,0.76,0.9
+Hugo,0.94,0.79
+Midnight in Paris,0.93,0.82
+Moneyball,0.95,0.86
+The Tree of Life,0.84,0.6
+War Horse,0.77,0.74
+The Darkest Hour,0.12,0.25
+Arthur,0.26,0.47
+Warrior,0.83,0.93
+Bridesmaids,0.9,0.76
+50/50,0.93,0.89
+Battle: Los Angeles,0.35,0.49
+Beastly,0.2,0.48
+Bad Teacher,0.44,0.36
+Larry Crowne,0.35,0.43
+Shark Night 3D,0.16,0.23
+Captain America: The First Avenger,0.79,0.75
+The Eagle,0.38,0.42
+Green Lantern,0.26,0.47
+Contagion,0.84,0.61
+Final Destination 5,0.61,0.52
+The Dilemma,0.24,0.31
+Super 8,0.82,0.78
+A Separation,0.99,0.92
+Something Borrowed,0.15,0.48
+Cowboys and Aliens,0.44,0.45
+Winnie the Pooh,0.91,0.78
+I Don't Know How She Does It,0.17,0.32
+No Strings Attached,0.49,0.55
+The Smurfs,0.23,0.46
+The Thing,0.36,0.42
+The King's Speech,0.95,0.93
+Black Swan,0.87,0.86
+The Fighter,0.9,0.88
+Inception,0.86,0.93
+The Kids Are Alright,0.93,0.72
+127 Hours,0.93,0.84
+The Social Network,0.96,0.89
+Toy Story 3,0.99,0.91
+True Grit,0.96,0.86
+Winter's Bone,0.94,0.74
+From Paris with Love,0.37,0.57
+Shutter Island,0.69,0.73
+Eat Pray Love,0.37,0.45
+Grown Ups,0.1,0.59
+Vampires Suck,0.04,0.31
+Morning Glory,0.55,0.52
+Charlie St. Cloud,0.27,0.61
+The Losers,0.49,0.54
+Remember Me,0.28,0.69
+Legion,0.2,0.36
+The Girl Who Played with Fire,0.7,0.68
+The Sorcerer's Apprentice,0.41,0.56
+Edge of Darkness,0.58,0.56
+Resident Evil: Afterlife,0.24,0.51
+The Last Song,0.19,0.65
+Case 39,0.23,0.42
+The Switch,0.51,0.44
+The Next Three Days,0.52,0.66
+Tangled,0.9,0.87
+Our Family Wedding,0.14,0.48
+The Last Airbender,0.06,0.42
+Blue Valentine,0.88,0.75
+Country Strong,0.22,0.53
+Knight & Day,0.53,0.52
+Gulliver's Travels,0.21,0.3
+Karate Kid,0.67,0.75
+Secretariat,0.64,0.76
+Harry Potter and the Deathly Hallows Part 1,0.79,0.87
+Jonah Hex,0.13,0.23
+The Twilight Saga: Eclipse,0.49,0.74
+The Hurt Locker,0.97,0.83
+Avatar,0.83,0.92
+The Blind Side,0.66,0.9
+District 9,0.91,0.81
+An Education,0.94,0.78
+Inglourious Basterds,0.88,0.87
+Precious,0.91,0.8
+A Serious Man,0.89,0.65
+Up ,0.98,0.86
+Up in the Air,0.91,0.76
+Tyler Perry's Madea Goes to Jail,0.28,0.74
+Dragonball Evolution,0.14,0.27
+Gamer,0.29,0.42
+Tyler Perry's I Can Do Bad All By Myself,0.62,0.81
+Watchmen,0.64,0.68
+Fantastic Mr. Fox,0.93,0.81
+Astro Boy,0.49,0.53
+Notorious,0.5,0.66
+Friday the 13th,0.26,0.52
+The Last House on the Left,0.41,0.55
+The Invention of Lying,0.57,0.47
+Inkheart,0.39,0.49
+Capitalism: A Love Story,0.75,0.72
+Underworld: Rise of the Lycans,0.3,0.68
+The International,0.59,0.39
+17 Again,0.55,0.7
+A Perfect Getaway,0.6,0.5
+The Taking of Pelham 1 2 3,0.51,0.6
+Fame,0.25,0.42
+The Uninvited,0.32,0.52
+Everybody's Fine,0.46,0.54
+Extract,0.63,0.38
+Jennifer's Body,0.43,0.37
+The Ugly Truth,0.13,0.68
+Push,0.22,0.47
+Away We Go,0.67,0.73
+The Haunting in Connecticut,0.17,0.51
+Next Day Air,0.21,0.35
+Year One,0.14,0.31
+Slumdog Millionaire,0.94,0.9
+The Curious Case of Benjamin Button,0.72,0.81
+Frost/Nixon,0.92,0.86
+Milk,0.94,0.88
+The Reader,0.61,0.78
+W.,0.59,0.42
+The Wrestler,0.98,0.86
+Sex Drive,0.46,0.6
+The Secret Life of Bees,0.58,0.78
+The Boy in the Striped Pajamas,0.63,0.84
+Appaloosa,0.77,0.54
+Lakeview Terrace,0.46,0.43
+Made of Honor,0.14,0.61
+Burn After Ridiculous,0.78,0.64
+The Tale of Despereaux,0.56,0.46
+The Visitor,0.89,0.82
+Semi-Pro,0.21,0.41
+Superhero Movie,0.16,0.36
+Nim's Island,0.51,0.49
+Max Payne,0.16,0.36
+No Country for Old Men,0.95,0.84
+Atonement,0.83,0.79
+Juno,0.94,0.89
+Michael Clayton,0.9,0.72
+There Will Be Blood,0.91,0.84
+The Hills Have Eyes 2,0.11,0.5
+Mr. Brooks,0.55,0.75
+Spider-Man 3,0.63,0.54
+Aliens Vs. Predator - Requiem,0.12,0.37
+Bridge to Terabithia,0.84,0.71
+The Messengers,0.12,0.48
+Dead Silence,0.2,0.57
+Amazing Grace,0.7,0.84
+BRATZ,0.07,0.51
+The Great Debaters,0.69,0.86
+The Mist,0.74,0.64
+Shooter,0.48,0.82
+Becoming Jane,0.57,0.74
+Primeval,0.19,0.35
+Death Sentence,0.2,0.62
+The Departed,0.93,0.92
+Babel,0.69,0.76
+Letters from Iwo Jima,0.91,0.85
+Little Miss Sunshine,0.91,0.9
+The Queen,0.97,0.74
+The Grudge 2,0.1,0.57
+The Benchwarmers,0.11,0.71
+ATL,0.63,0.81
+The Texas Chainsaw Massacre: The Beginning,0.12,0.64
+Ultraviolet,0.09,0.42
+An American Haunting,0.12,0.47
+Miami Vice,0.47,0.48
+Curious George,0.69,0.65
+How To Eat Fried Worms,0.58,0.5
+Invincible,0.71,0.74
+The Wicker Man,0.15,0.27
+Flags of Our Fathers,0.73,0.7
+Eight Below,0.72,0.8
+16 Blocks,0.55,0.6
+John Tucker Must Die,0.25,0.74
+Crash,0.76,0
+Brokeback Mountain,0.87,0.77
+Capote,0.9,0.73
+"Good Night, and Good Luck",0.93,0.73
+Munich,0.78,0.78
+Hitch,0.69,0.65
+Two for the Money,0.21,0.5
+Cry Wolf,0.23,0.56
+The Legend of Zorro,0.26,0.61
+Wedding Crashers,0.75,0.7
+The Ring Two,0.2,0.54
+Just Friends,0.42,0.73
+The Gospel,0.32,0.76
+Serenity,0.82,0.89
+Lords of Dogtown,0.55,0.8
+Herbie: Fully Loaded,0.42,0.54
+Dark Water,0.45,0.37
+The Amityville Horror,0.24,0.64
+Wolf Creek,0.53,0.49
+Chicken Little,0.36,0.56
+Million Dollar Baby,0.92,0.87
+The Aviator,0.87,0.73
+Finding Neverland,0.83,0.84
+Ray,0.81,0.87
+Sideways,0.96,0.77
+Shaun of the Dead,0.91,0.91
+Mean Girls,0.83,0.66
+Blade: Trinity,0.26,0.7
+The Girl Next Door,0.55,0.71
+Open Water,0.72,0.32
+Soul Plane,0.18,0.58
+The Whole Ten Yards,0.04,0.49
+Shark Tale,0.36,0.59
+The Terminal,0.6,0.72
+The Chronicles of Riddick,0.29,0.73
+Dirty Dancing: Havana Nights,0.22,0.71
+Taxi,0.1,0.6
+Catch that Kid,0.11,0.53
+Along Came Polly,0.25,0.54
+I Heart Huckabees,0.62,0.75
+The Lord of the Rings: The Return of the King,0.94,0.83
+Lost in Translation,0.95,0.84
+Master and Commander: The Far Side of the World ,0.85,0.75
+Mystic River,0.87,0.86
+Seabiscuit,0.77,0.74
+Bruce Almighty,0.49,0.61
+The Triplets of Belleville,0.94,0.88
+Freaky Friday,0.88,0.6
+Le Divorce,0.37,0.25
+Tears of the Sun,0.34,0.72
+The Matrix Reloaded,0.73,0.74
+Gods and Generals,0.08,0.65
+Hulk,0.62,0.34
+Girl With a Pearl Earring,0.72,0.66
+Bend It Like Beckham,0.85,0.69
+A Mighty Wind,0.88,0.8
+The Recruit,0.43,0.63
+Kill Bill Vol. 1,0.85,0.76
+The League of Extraordinary Gentlemen,0.17,0.54
+Holes,0.77,0.72
+Chicago,0.87,0.8
+Gangs of New York,0.75,0.76
+The Hours,0.81,0.82
+The Lord of the Rings: The Two Towers,0.96,0.92
+The Pianist,0.96,0.94
+The Good Girl,0.81,0.53
+SwimFan,0.14,0.36
+Far From Heaven,0.89,0.76
+The Emperor's Club,0.5,0.65
+Spirited Away,0.97,0.95
+Hart's War,0.6,0.51
+Lilo & Stitch ,0.86,0.65
+Spider-Man,0.89,0.65
+Clockstoppers,0.29,0.33
+Showtime,0.25,0.29
+Abandon,0.17,0.36
+The Country Bears,0.3,0.38
+XXX,0.48,0.69
+Collateral Damage,0.18,0.33
+Two Weeks Notice,0.42,0.63
+A Beautiful Mind,0.78,0.91
+Gosford Park,0.86,0.75
+In the Bedroom,0.93,0.78
+The Lord of the Rings: The Fellowship of the Ring,0.92,0.92
+Moulin Rouge!,0.76,0.88
+Angel Eyes,0.33,0.48
+Ocean's Eleven,0.82,0.76
+Bread and Tulips,0.71,0.83
+Max Keeble's Big Move,0.29,0.41
+American Outlaws,0.14,0.67
+Spy Kids,0.93,0.39
+"Monsters, Inc.",0.95,0.84
+Two Can Play That Game,0.43,0.81
+Get Over It,0.44,0.5
+Kingdom Come,0.28,0.65
+The Mexican,0.56,0.47
+The Closet,0.86,0.75
+John Carpenter's Ghosts of Mars,0.21,0.29
+Vanilla Sky,0.4,0.68
+Town & Country,0.13,0.17
+Gladiator,0.78,0.85
+Chocolat,0.63,0.82
+"Crouching Tiger, Hidden Dragon",0.97,0.81
+Erin Brokovich,0.84,0.76
+Traffic,0.92,0.81
+Road Trip,0.57,0.68
+Where the Heart Is,0.35,0.76
+The Replacements,0.4,0.7
+Hollow Man,0.27,0.35
+The Nutty Professor II: The Klumps,0.26,0.53
+Space Cowboys,0.79,0.5
+Meet the Parents,0.84,0.79
+Scary Movie,0.53,0.5
+Red Planet,0.14,0.31
+Get Carter,0.12,0.3
+Here on Earth,0.17,0.61
+Lucky Numbers,0.22,0.22
+Small Time Crooks,0.67,0.54
+Eye of the Beholder,0.09,0.33
+Loser,0,0
+American Beauty,0.88,0.9
+The Cider House Rules,0.71,0.75
+The Green Mile,0.8,0.93
+The Insider,0.96,0.87
+The Sixth Sense,0.85,0.87
+The Iron Giant,0.97,0.72
+The 13th Warrior,0.33,0.66
+Payback,0.53,0.67
+Tarzan,0.88,0.63
+The World Is Not Enough,0.51,0.58
+The Story of Us,0.28,0.56
+Bringing Out the Dead,0.71,0.64
+Doug's First Movie,0.26,0.41
+Light it Up,0.38,0.75
+Chill Factor,0.07,0.36
+200 Cigarettes,0.29,0.53
+Foolish,0,0.65
+Boys Don't Cry,0.88,0.84
+The Mod Squad,0.04,0.21
+Twin Dragons,0,0
+Shakespeare in Love,0.93,0.76
+Elizabeth,0.82,0.85
+Life is Beautiful,0.8,0.96
+Savng Private Ryan,0.93,0.92
+The Thin Red Line,0.78,0.75
+The Parent Trap,0.85,0.67
+Great Expectations,0.38,0.75
+Lethal Weapon 4,0.52,0.7
+Jack Frost,0.46,0.16
+Bride of Chucky,0.42,0.52
+A Bug's Life,0.92,0.61
+Can't Hardly Wait,0.44,0.59
+Armageddon,0.39,0.77
+A Simple Plan,0.9,0.75
+American History X,0.82,0.96
+Return to Paradise,0.71,0.73
+Air Bud: Golden Reciever,0.06,0.41
+Ringmaster,0.25,0.19
+Soldier,0.1,0.45
+Black Dog,0.11,0.61
+Titanic,0.87,0.69
+As Good as It Gets,0.86,0.81
+The Full Monty ,0.95,0.73
+Good Will Hunting,0.97,0.92
+L.A. Confidential,0.99,0.9
+Breakdown,0.8,0.61
+The Jackal,0.15,0.56
+That Darn Cat,0.13,0.3
+Grosse Pointe Blank,0.79,0.84
+In & Out,0.73,0.48
+Beverly Hills Ninja,0.14,0.54
+Eve's Bayou,0.8,0.86
+Hercules,0.84,0.68
+Scream 2,0.81,0.54
+Midnight in the Garden of Good and Evil,0.47,0.63
+The 6th Man,0.23,0.54
+The Postman,0.09,0.51
+Kolya,0.96,0.91
+Kama Sutra: A Tale of Love,0.4,0.69
+Kull the Conqueror,0.26,0.35
+The English Patient,0.83,0.81
+Fargo,0.94,0.91
+Jerry Maguire,0.85,0.72
+Secrets & Lies,0.94,0.9
+Shine,0.91,0.89
+Ransom,0.73,0.61
+Mother,0.91,0.63
+Heaven's Prisoners,0.16,0.25
+The Associate,0.28,0.53
+Screamers,0.3,0.45
+Ghosts of Mississippi,0.46,0.64
+Romeo + Juliet,0.7,0.76
+Alaska,0.18,0.5
+Celtic Pride,0.09,0.31
+Mary Reilly,0.26,0.4
+Fly Away Home,0.85,0.64
+Beavis and Butt-head Do America,0.71,0.61
+A Time to Kill,0.67,0.83
+Supercop,0.95,0.7
+The Substitute,0.38,0.44
